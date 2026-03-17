@@ -8,8 +8,9 @@ import (
 	"os"
 )
 
-func ingestConfigToml() string {
-	// This will always be the toml file name.
+func IngestConfigToml() string {
+	tomlFileName := ""
+
 	// tomlFileName := "normalize.toml"
 	return ""
 }
